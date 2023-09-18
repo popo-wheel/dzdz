@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\dzdz\dzz64\bin\Debug\net6.0\dzz64.exe
+C:\Users\PC\Desktop\dzdz\dzz64\bin\Debug\net6.0\dzz64.deps.json
+C:\Users\PC\Desktop\dzdz\dzz64\bin\Debug\net6.0\dzz64.runtimeconfig.json
+C:\Users\PC\Desktop\dzdz\dzz64\bin\Debug\net6.0\dzz64.dll
+C:\Users\PC\Desktop\dzdz\dzz64\bin\Debug\net6.0\dzz64.pdb
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.AssemblyInfo.cs
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.dll
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\refint\dzz64.dll
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.pdb
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\dzz64.genruntimeconfig.cache
+C:\Users\PC\Desktop\dzdz\dzz64\obj\Debug\net6.0\ref\dzz64.dll
